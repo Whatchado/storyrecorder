@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Welcome</class>
+ <widget class="QDialog" name="Welcome">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>661</width>
+    <height>513</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>whatchado StoryRecorder</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="resources.qrc">
+    <normaloff>:/icons/app_icon.svg</normaloff>:/icons/app_icon.svg</iconset>
+  </property>
+  <property name="toolTip">
+   <string/>
+  </property>
+  <property name="windowFilePath">
+   <string notr="true"/>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>21</y>
+     <width>631</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <property name="acceptDrops">
+    <bool>false</bool>
+   </property>
+   <property name="toolTip">
+    <string notr="true"/>
+   </property>
+   <property name="whatsThis">
+    <string notr="true"/>
+   </property>
+   <property name="accessibleName">
+    <string notr="true"/>
+   </property>
+   <property name="accessibleDescription">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>false</bool>
+   </property>
+   <property name="html">
+    <string notr="true">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Allgemeine Geschäftsbedingungen für Whatchado – Do It Yourself Interview&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. Geltungsbereich&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1.1 Die Allgemeinen Geschäftsbedingungen (nachfolgend „AGB&amp;quot;) gelten für alle Vertragsverhältnisse zwischen whatchado GmbH (nachfolgend „whatchado&amp;quot;) und allen Nutzern der Website, einschließlich solcher Nutzer, die Videoinhalte, Informationen und andere Materialien oder Dienste zu whatchado beitragen (nachfolgend „Nutzer“) und regeln die wechselseitigen Rechte und Pflichten zwischen den Vertragspartnern. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1.2 Soweit für bestimmte Leistungen außerhalb dieser AGB abweichende spezielle Regelungen getroffen werden, gelten vorrangig die speziellen Regelungen vor diesen AGB.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Annahme der Bestimmungen&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2.1 Die Nutzung der Dienste (Website und jegliche Produkte, Software und Dienste nachfolgend  „Dienste“) ist nur nach Zustimmung der AGB durch den Nutzer möglich. Das Nutzen der Dienste ist untersagt, sofern der Nutzer die AGB nicht annimmt.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Änderungen der Bestimmungen&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3.1 Whatchado behält sich das Recht vor die AGB jederzeit ohne Angabe von Gründen und ohne vorherige Ankündigung ändern zu dürfen. Dem Nutzer wird empfohlen regelmäßig die AGB auf Aktualität zu überprüfen. Es gilt jeweils die aktuelle auf der Webseite veröffentliche Version der AGB. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;4. Gegenstand&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;4.1 Whatchado bietet Nutzern die Möglichkeit im Sinne der Förderung von Bewusstseinsbildung und Inspiration anderer Menschen durch die „Do-It-Yourself-Interview“-Funktion der Plattform unentgeltlich ein oder mehrere Videos mit Interviewpartnern aufzunehmen. Der Interviewpartner kann der Nutzer selbst oder ein Dritter sein. Die Videos werden über whatchado gestaltet bzw. veröffentlicht. In dem Interview werden dem Interviewpartner vorgegebene Fragen zu seinem beruflichen Werdegang gestellt. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;4.2 Die Videos werden entweder mittels einer eigenen Videosoftware (die „Videosoftware“), welche von whatchado im Rahmen der Nutzungsbedingungen in Punkt 9 zur Verfügung gestellt wird, erstellt oder der Interviewpartner produziert die Videoteile, welche seine Antworten aufzeichnen, selbst und lädt diese auf die Webseite, wo sie dann automatisiert zusammengeschnitten werden. Die Videointerviews zeigen abwechselnd die Interviewfragen mittels Einblendung und die Antwort des Interviewpartners.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;4.3 Die von den Nutzern hochgeladenen Videos sind auf der whatchado – Webseite (www.whatchado.com) öffentlich zugänglich und von jedem Besucher ansehbar. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5. Nutzerkonten&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.1 Die Nutzung eines Großteils der Funktionen auf der Webseite erfordert keine Registrierung. Um Zugang zu zusätzlichen Funktionen und Diensten – wie die „Do-It-Yourself-Interview“-Funktion – der Webseite zu erhalten, ermöglicht es whatchado dem Nutzer sich gratis auf whatchado.com zu registrieren und ein eigenes Nutzerkonto zu erstellen. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.2 Die Registrierung erfolgt durch Eingabe der E-Mail-Adresse des Nutzers und Registrierungsbestätigung durch whatchado auf unbestimmte Zeit. Anschließend kann der Nutzer ein Profil anlegen. Im Zuge der Erstellung des Nutzerkontos, ist es erforderlich, wahre und vollständige Angaben zu machen. Die Angabe von falscher, unvollständiger, irreführender oder sonst rechtswidriger Information ist unzulässig.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.3 Nach erfolgreicher Registrierung und Erstellung des Nutzerkontos ist es dem Nutzer möglich, ein Interview aufzunehmen und so ein Video zu erstellen und auf der Webseite von whatchado zu veröffentlichen. Um das Video einer Berufssparte zuordnen zu können, kann der Nutzer eine Bezeichnung aus einer von whatchado vorgegebenen Liste wählen oder selbst einen gewünschten Namen für die Berufsbezeichnung wählen. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.4 Mit Registrierung und Erstellung des Nutzerkontos stimmt der Nutzer ausdrücklich zu, dass sein Name und sein Videointerview auf der Webseite öffentlich sichtbar sind. Ebenso stimmt der Nutzer mit seiner Registrierung zu, dass andere registrierte Nutzer (auch Jobanbieter) Kontakt aufnehmen können.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.5 Der Nutzer ist zur Geheimhaltung des Kennworts seines whatchado Nutzerkontos verpflichtet und muss es sicher aufbewahren. Der Nutzer kann sein Kennwort jederzeit ändern. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.6 Der Nutzer erklärt sich damit einverstanden whatchado unverzüglich von jeder ihm bekannt werdenden Verletzung von Sicherheitsvorkehrungen oder einem unbefugten Gebrauch seines Nutzerkontos in Kenntnis zu setzen.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.7 Der Nutzer erklärt sich damit einverstanden, dass er wegen jeglicher Aktivitäten, die unter seinem Nutzerkonto vorgenommen werden, alleine verantwortlich ist (sowohl gegenüber whatchado als auch gegenüber Dritten).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.8 Der Nutzer hat jederzeit die Möglichkeit sein Nutzerkonto zu deaktivieren und die Videointerviews von der Plattform zu nehmen. Der Nutzer kann whatchado auch direkt kontaktieren und die Entfernung einzelner Videos oder die Löschung des Nutzerkontos verlangen. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;6. Preise&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;6.1 Whatchado stellt seine Leistungen im Zuge der „Do-It-Yourself-Interview“-Funktion der Webseite den Nutzern nach Erstellung eines Nutzerkontos unentgeltlich zur Verfügung. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;7. Generelle Nutzungsbeschränkungen&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;7.1 Handlungsweisen und das Einsetzen von (automatisierten) Systemen, welche die Sicherheit des Netzwerkes oder des Systems oder sonstige Zugriffe auf die Webseite beeinträchtigen oder dies beabsichtigen  sind verboten. Insbesondere ist das Einsetzen von Schadsoftware (z.B. Viren, Trojaner) und Programmen, welche automatisiert Daten und Informationen extrahieren (z.B. Robots, Spiders, Offline-Readers) verboten.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;7.2 Whatchado erneuert sich ständig, um seinen Nutzern ein bestmögliches Erlebnis zu vermitteln. Der Nutzer nimmt dies zur Kenntnis und erklärt sich damit einverstanden, dass sich die Form und Natur der Dienste, die whatchado zur Verfügung stellt, dementsprechend ändern kann, ohne dass dem Nutzer dies zuvor angekündigt wird.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;7.3 Der Nutzer ist damit einverstanden, dass er allein verantwortlich ist (und dass whatchado dem Nutzer oder Dritten gegenüber nicht verantwortlich ist) im Zusammenhang mit und für die Folgen von jeder Verletzung dieser AGB durch den Nutzer (einschließlich jeglichen Verlusts oder Schadens, den whatchado dadurch erfährt).&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;7.4 Der Nutzer wird Zugangsdaten nur zum Zwecke der Nutzung im Rahmen des vertraglichen Umfangs weitergeben. Er verpflichtet sich, allen Personen und Organisationen, denen er Zugang zur Verwaltung der Plattform einräumt, die Bestimmungen über die Rechtseinräumungen (nachstehender Punkt 9) zur Kenntnis zu bringen und ausdrücklich darauf hinzuweisen, dass die Verantwortlichkeit für die Einhaltung rechtlicher Bestimmungen ausschließlich beim Nutzer liegt. Dies gilt insbesondere auch für gewerbliche Schutzrechte Dritter, urheberrechtliche Nutzungsrechte, Ansprüche von Verwertungsgesellschaften oder den Schutz von Persönlichkeitsrechten.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8. Datenschutz und Verwertung&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8.1 Der Nutzer erstellt selbst ein in Bild und Ton aufgezeichnetes Interview und stellt es auf der Webseite zur Verfügung. Ausdrücklich weist whatchado den Nutzer darauf hin, dass das Thema des Interviews seine Privatsphäre betrifft und ihm alleine die Entscheidung obliegt, inwieweit er diese der Öffentlichkeit präsentieren will.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8.2 Der Nutzer räumt whatchado eine uneingeschränkte Werknutzungsbewilligung an sämtlichen vom Nutzer zur Verfügung gestellten Inhalten und Materialien, insbesondere der Videointerviews, ein, inklusive deren Speicherung, Verwertung, Vervielfältigung, Verbreitung, Sendung und öffentlicher Zurverfügungstellung. Die Auswahl behält sich whatchado vor. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8.3 whatchado ist berechtigt, zur Erfüllung des Vertragszwecks die vom Nutzer zur Verfügung gestellten Inhalte und Materialien für weitere Verwendungen zu bearbeiten oder zu kürzen. Whatchado steht nicht dafür ein, dass Kürzungen nicht zu einer Veränderung des Sinngehaltes führen.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8.4 Die Veröffentlichung des Interviews dient vorrangig der Bewusstseinsbildung in der Gesellschaft, soll darüber hinaus aber auch die Leistungen von whatchado bewerben. Der Interviewpartner nimmt zur Kenntnis und stimmt zu, dass er - im Zusammenhang mit dem Projekt - mit seinem Namen und seinem Bild als Interviewpartner von whatchado benannt wird und er insofern whatchado als Institution unterstützt und bewirbt. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8.5 Derzeit werden die Interviews auf der whatchado Website (www.whatchado.com) weltweit der Öffentlichkeit zum Abruf zur Verfügung gestellt. Zum Zwecke einer möglichst weitreichenden Bewusstseinsbildung ist der Nutzer damit einverstanden, dass whatchado die endgültige Version des Interviews/der Interviewreihe (ganz oder teilweise) auch in anderen Medien, beispielsweise im Rundfunk, Kino oder in Sozialen Medien (Facebook, Youtube etc.), allenfalls auch als Lichtbild in Verbindung mit einem Zitat in einem Printmedium, veröffentlicht, ankündigt, bewirbt oder verwertet. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;8.6 Das Videointerview kann zum Zwecke der sinnvollen Verbreitung zu Berufsorientierungszwecken bei Bildungs- und Berufskooperationspartnern von whatchado eingebunden werden. whatchado garantiert, dass das Interview immer klar und deutlich als whatchado-Videointerview gekennzeichnet sein wird und niemals aus dem inhaltlichen Zusammenhang gerissen wird. Whatchado garantiert jedoch nicht, dass die Videointerviews immer nur auf whatchado.com laufen oder anderweitige Einbindungen immer nur auf das Videointerview auf whatchado.com zugreifen.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;9. Rechte&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;9.1 Im Rahmen des Vertragsverhältnisses werden Rechte seitens whatchado nur in dem Umfang übertragen, wie dies für die Vertragsdurchführung unerlässlich ist. Der Nutzer erkennt an, dass er mit der vorübergehenden Nutzung von Marken oder Kennzeichen von whatchado keine eigenen Rechte erwirbt. Der Nutzer ist nicht berechtigt, Marken oder Kennzeichen, die whatchado im Rahmen der Vertragsdurchführung verwendet, zu verändern oder zu entfernen.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;9.2 whatchado gewährt dem Nutzer an der Videosoftware das nicht ausschließliche, zeitlich auf die Dauer des Vertragsverhältnisses beschränkte Recht, die Videosoftware zur Erstellung von Videointerviews zu nutzen. Der Nutzer hat darüberhinaus das Recht, die Videosoftware für diesen Zweck an Dritte weiterzugeben.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;9.3 Soweit der Nutzer im Rahmen der Vertragsdurchführung eigene Materialien (Videos, Grafiken, Logos, Texte, Musik etc.) verwendet oder einbringt, sichert er zu über sämtliche Nutzungs- und Verwertungsrechte zu verfügen.  Des Weiteren sichert der Nutzer zu, die Einwilligung und Zustimmung allfällig abgebildeter oder gefilmter dritter Personen für die Veröffentlichung der Materialien, insbesondere der Videointerviews, zu haben. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;9.4 Der Nutzer hat whatchado umgehend schriftlich über einen allfälligen Verlust von Nutzungs- und Verwertungsrechten zu unterrichten.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;9.5 Der Nutzer hält whatchado schad- und klaglos und stellt whatchado von sämtlichen Ansprüchen inklusive der Kosten der angemessenen Rechtsverteidigung frei, die Dritte gegen whatchado wegen einer Verletzung von Rechten Dritter oder einem Verstoß gegen gesetzliche Vorschriften im Zusammenhang mit der Nutzung der Leistungen, insbesondere der Verbreitung von Inhalten, durch den Nutzer geltend machen. Der Nutzer wird whatchado bei allen gerichtlichen und außergerichtlichen Auseinandersetzungen unterstützen und alle Daten, Dokumente und sonstigen Materialien, die whatchado im Rahmen der Auseinandersetzung für notwendig erachtet, auf Verlangen unverzüglich zur Verfügung stellen. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10. Inhaltliche Verantwortung des Nutzers&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10.1. Verantwortlich für die gespeicherten und veröffentlichten oder verbreiteten Inhalte ist ausschließlich der Nutzer.&lt;br /&gt;&lt;br /&gt; whatchado ist lediglich technischer Dienstleister.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10.2 Der Nutzer verpflichtet sich, nur solche Inhalte zu verwalten, zu speichern, zu verbreiten oder zu veröffentlichen, die rechtmäßig sind. Er wird insbesondere keine gewaltverherrlichenden, rassistischen, pornografischen, anstößigen, sonst jugendgefährdenden oder beleidigenden Inhalte speichern oder über die zur Verfügung gestellten Dienste verbreiten.&lt;br /&gt;&lt;br /&gt;Weiters wird der Nutzer, weder im Video noch im Beschreibungstext Werbung, Werbelinks oder sonstige Aktionsaufrufe, insbesondere solche, welche den Kauf von Produkten oder Spenden fördern oder bewerben, platzieren, speichern oder verbreiten.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10.3 Der Nutzer verpflichtet sich, nur Videos und keine Fotographien auf die Plattform hochzuladen und dafür Sorge zu tragen, dass per Video nur eine Person interviewt wird und deren Gesicht erkennbar und der Ton verständlich ist.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10.4 whatchado ist nicht verpflichtet eine eigene Prüfung der Inhalte durchzuführen; eine Hinweispflicht seitens whatchado auf etwaige problematische Inhalte besteht daher nicht. whatchado ist jedoch berechtigt, die Verbreitung oder Veröffentlichung problematischer Inhalte ohne Einhaltung von Fristen und ohne vorherige Ankündigung dauerhaft oder zeitweise zu verhindern, zu löschen oder ganz oder teilweise für alle oder einige Nutzer zu sperren, wenn sie gegen gesetzliche oder behördliche Regelungen oder die guten Sitten verstoßen oder aus sonstigen begründeten Fällen die Veröffentlichung nicht zugemutet werden kann. &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10.5 Der Nutzer verpflichtet sich, die zur Verfügung gestellten technischen Ressourcen ausschließlich vertragskonform zu verwenden. Er wird insbesondere keine Dateien speichern, verbreiten, veröffentlichen oder sonst in die zur Verfügung gestellten Dienste und Leistungen einbringen, welche die technische Funktion des Systems beeinträchtigen oder gefährden könnten.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;11. Links&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;11.1 Die Dienste können Hyperlinks auf andere Webseiten enthalten, die nicht whatchado gehören oder von whatchado kontrolliert werden. Whatchado hat keine Kontrolle und übernimmt keine Haftung für die Inhalte, Datenschutz-Richtlinien oder Tätigkeiten fremder Webseiten.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;11.2 Der Nutzer nimmt zur Kenntnis und erklärt sich damit einverstanden, dass whatchado nicht für die Verfügbarkeit solcher externen Seiten oder Quellen verantwortlich ist und nicht irgendwelche Werbung, Produkte oder andere Materialien, die auf solchen Webseiten stehen oder über sie verfügbar sind, Verantwortung übernimmt oder bekräftigt.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;11.3 Der Nutzer nimmt zur Kenntnis und erklärt sich damit einverstanden, dass whatchado nicht verantwortlich ist für irgendwelche Verluste oder Schäden, die der Nutzer als Folge der Verfügbarkeit solcher externen Webseiten oder Quellen oder als Folge seines Vertrauens in die Vollständigkeit, Richtigkeit oder die Existenz irgendwelcher Werbung, Produkte oder anderer Materialien, die auf solchen Webseiten stehen oder über sie verfügbar sind, treffen können.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;11.4 Weiters kann der vom Nutzer zur Verfügung gestellte Content – Content steht in diesem Fall für Videos, Grafiken, Logos, Texte, Musik etc. – mittels Embed Code, iFrame, Download oder sonstigen Links auf externen Seiten, u.a. Websites, Social Media, Blogs etc., integriert werden, selbst wenn diese von Servern außerhalb Österreichs gehosted werden. Diese Integration kann vom Nutzer selbst, whatchado, den Partnern von whatchado und allen anderen Parteien, die die Website von whatchado nutzen, erfolgen. Der Nutzer erklärt sich damit einverstanden.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;11.5 whatchado empfiehlt dem Nutzer, beim Verlassen der Webseite von whatchado wachsam zu sein und sich die Nutzungsbedingungen und Datenschutz-Richtlinien jeder anderen Webseite, die der Nutzer besucht, durchzulesen.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;12. Dauer /Auflösung&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Verträge zwischen whatachdo und dem Nutzer werden in der Regel auf unbestimmte Zeit abgeschlossen und kann von beiden Parteien unter Einhaltung einer Kündigungsfrist von 2 Wochen zum Ende eines Kalendermonats beendet werden. Die sofortige Auflösung aus wichtigem Grund ist unabhängig davon jederzeit möglich. Festgehalten wird, dass whatchado im Sinne der Rechteinhaberschaft (siehe Punkt 8) auch nach Vertragsauflösung (aus welchem Grund immer) – vor allem im Sinne der Bewerbung von whatchado – weiter berechtigt bleibt, die zur Verfügung gestellten Inhalte (mit und ohne Nennung des Vertragspartners) zu nutzen.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;13. Haftung&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Die Haftung von whatchado, ihren Organen und Erfüllungsgehilfen ist auf Vorsatz und grobe Fahrlässigkeit beschränkt. Die Haftung für Schäden durch leichte Fahrlässigkeit wird - mit Ausnahme von Schäden an Personen - ausgeschlossen.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;whatchado haftet nicht für die Vollständigkeit, Aktualität, Korrektheit oder sonstige Qualität der dargestellten Inhalte und Informationen.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;14 Anwendbares Recht / Gerichtsstand&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;14.1 Dieser Vertrag unterliegt dem Recht der Republik Österreich, unter Ausschluss seiner Kollissionsnormen und des UN-Kaufrechts.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;14.2 Für allfällige Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag wird die ausschließliche Zuständigkeit des für den 4. Wiener Gemeindebezirk sachlich zuständigen Gerichtes vereinbart.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="overwriteMode">
+    <bool>false</bool>
+   </property>
+   <property name="acceptRichText">
+    <bool>false</bool>
+   </property>
+   <property name="searchPaths">
+    <stringlist notr="true"/>
+   </property>
+   <property name="openLinks">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>550</x>
+     <y>450</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Akzeptieren</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

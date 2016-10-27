@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="icon_frage.png">resources/icon_frage.png</file>
+        <file alias="app_icon.svg">resources/icon-whatchado-app.svg</file>
+        <file alias="icon_frage.svg">resources/icon_frage.svg</file>
+        <file alias="icon_video.svg">resources/icon_video.svg</file>
+        <file alias="icon_interview.svg">resources/icon_interview.svg</file>
+        <file alias="icon_selectedvideo.svg">resources/icon_selectedvideo.svg</file>
+        <file>resources/cutscenes/DIY_DE_STANDARD_01.mp4</file>
+        <file alias="do-it-yourself-logo-type.svg">resources/do-it-yourself-logo-type.svg</file>
+        <file>resources/logo_interview_student.svg</file>
+        <file>resources/logo_interview_standard_done.svg</file>
+        <file>resources/logo_interview_standard.svg</file>
+        <file>resources/logo_interview_student_done.svg</file>
+        <file>resources/int_type_mo.svg</file>
+        <file>resources/int_type.svg</file>
+        <file>resources/questions_count_mo.svg</file>
+        <file>resources/questions_count.svg</file>
+        <file>resources/button_bg.svg</file>
+        <file>resources/plussymbol-white.svg</file>
+        <file>resources/movie_unfinished_unactive.svg</file>
+        <file>resources/movie_done_active.svg</file>
+        <file>resources/movie_done_unactive.svg</file>
+        <file>resources/movie_unfinished_active.svg</file>
+        <file>resources/backgroundpattern.jpg</file>
+        <file>resources/netidee-ecke.png</file>
+        <file>resources/logo-wcd+diy.png</file>
+        <file>resources/rightarrow-unactive.svg</file>
+        <file>resources/rightarrow-active.svg</file>
+        <file>resources/icon_record.svg</file>
+        <file>resources/icon_pause.svg</file>
+        <file>resources/icon_play.svg</file>
+        <file>resources/icon_show.svg</file>
+        <file>resources/icon_hide.svg</file>
+        <file>resources/plussymbol-orange.svg</file>
+        <file>resources/likehand-01.svg</file>
+        <file>resources/questionmark-01.svg</file>
+        <file>resources/moviesymbol-full-01.svg</file>
+        <file>resources/x-close-01.svg</file>
+        <file>resources/eye-01.svg</file>
+        <file>resources/icon_stop.svg</file>
+    </qresource>
+    <qresource prefix="/cutscenes">
+        <file alias="diy_de_standard.mp4">resources/cutscenes/DIY_DE_STANDARD_01.mp4</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>resources/style.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resources/preview.png</file>
+        <file>resources/infobox.png</file>
+    </qresource>
+</RCC>

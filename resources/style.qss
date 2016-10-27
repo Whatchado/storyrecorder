@@ -1,0 +1,127 @@
+
+ QListView#list_interviews {
+      background-color:#575757;
+      background-image: url(:/icons/do-it-yourself-logo-type.svg);
+      background-repeat:no-repeat;
+      background-position: bottom left;
+  }
+#grid_test {
+background-color:#575757;
+}
+
+#video_editor {
+background-color:#ffffff;
+}
+#video_record {
+background-color:#ffffff;
+}
+
+QLineEdit {  border: 0px solid gray;
+  border-radius: 5px;
+  padding:6px;
+  min-height:24pt;
+  }
+  QComboBox {  border: 1px solid #c0c0c0;
+  height:20px;
+    border-radius: 5px;
+    padding:4px;
+    }
+    QComboBox:selected {  border: 1px solid gray;
+      border-radius: 5px;
+      padding:4px;
+      }
+
+ QPushButton {
+     border: 0px solid #000000;
+     border-radius: 5px;
+     padding:3px 10px;
+     font-weight:bold;
+     font-size:10pt;
+     color:#ffffff;
+     background-color: #414141;
+     min-width: 80px;
+     margin:5px;
+     min-height:20px;
+ }
+
+ QPushButton:hover {
+     background-color: #377784;
+ }
+ QPushButton:pressed {
+     background-color: #27545e;
+ }
+ QPushButton#b_upload {
+ background-color: #ff7115;
+ color:white;
+ font-size:14pt;
+ padding:10px 10px;
+}
+QPushButton#b_upload:disabled {
+background-color: #6e6e6e;
+font-size:14pt;
+padding:10px 10px;
+}
+
+ QPushButton:flat {
+     border: none; /* no border for a flat push button */
+     background-color: #377784;
+ }
+
+ QPushButton:disabled {
+     color: #808080;
+ }
+ #centralWidget
+ {
+ background-color: #575757;
+ }
+ #addinterview
+ {
+ background-color: #575757;
+ }
+
+#video_cut
+{
+border: 1px solid #ffffff;
+}
+
+#list_videos {
+  border-top: 10px solid #ffffff;
+}
+QProgressBar {
+  text-align: center;
+  background-color:#6e6e6e;
+  color:white;
+  border: 2px solid grey;
+  border-radius: 5px;
+  }
+
+  QProgressBar:chunk {
+    background-color:#00cc00;
+
+    }
+    QProgressBar#progressInterview {
+    height:28px;
+    border: none;
+    }
+    QProgressBar#progressInterview:chunk {
+  background-color: #ff7115;
+
+}
+
+#video_record_start
+{
+height:40px;
+}
+#recordprogress
+{
+height:40px;
+}
+#b_infobox_show {
+height:32px;
+width:32px;
+min-height:32px;
+min-width:32px;
+max-height:32px;
+max-width:32px;
+padding 0px 0px;
+}
